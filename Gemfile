@@ -54,3 +54,5 @@ gem 'therubyracer', '~> 0.12.2'
 gem 'font-awesome-rails'
 
 gem 'simple_form'
+
+gem 'devise'
